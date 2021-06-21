@@ -1,6 +1,6 @@
 # :iphone: Wake up your brain 프로젝트
 ### [201712159 조현우](https://github.com/hyun98)<br>
-### 201624567 전민기<br>
+### [201624567 전민기](https://github.com/JUNMinGi)<br>
 ### [201724461 류지환](https://github.com/JihwanRyu051)<br><br>
 ---
 ### :scroll: 목차
