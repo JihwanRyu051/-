@@ -80,7 +80,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             public void onClick(View v) {
                 Intent intent1 = new Intent(MainActivity.this, Matchgame.class);
                 startActivity(intent1);
-                finish();
             }
         });
         msequence_game.setOnClickListener(new View.OnClickListener() {
@@ -104,7 +103,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             public void onClick(View v) {
                 Intent intent4 = new Intent(MainActivity.this, Responsegame.class);
                 startActivity(intent4);
-                finish();
             }
         });
 
@@ -113,7 +111,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             public void onClick(View v) {
                 Intent intent5 = new Intent(MainActivity.this,Chat.class);
                 startActivity(intent5);
-                finish();
             }
         });
 
@@ -142,7 +139,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.nav_match:
                 Intent intent1 = new Intent(MainActivity.this, Matchgame.class);
                 startActivity(intent1);
-                finish();
                 break;
             case R.id.nav_sequence:
                 Intent intent2 = new Intent(MainActivity.this, Sequencegame.class);
@@ -157,18 +153,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.nav_response:
                 Intent intent4 = new Intent(MainActivity.this, Responsegame.class);
                 startActivity(intent4);
-                finish();
                 break;
 
             case R.id.nav_chat:
                 Intent intent5 = new Intent(MainActivity.this, Chat.class);
                 startActivity(intent5);
-                finish();
                 break;
+
             case R.id.nav_profile:
                 Intent intent6 = new Intent(MainActivity.this,mpAndroidChart.class);
                 startActivity(intent6);
-                finish();
                 break;
 
             case R.id.nav_logout:
