@@ -1,9 +1,9 @@
-# Wake up your brain 프로젝트
+# :iphone: Wake up your brain 프로젝트
 ### [201712159 조현우](https://github.com/hyun98)<br>
 ### 201624567 전민기<br>
 ### [201724461 류지환](https://github.com/JihwanRyu051)<br><br>
 ---
-### 목차
+### :scroll: 목차
 #### 1. 개발 배경 및 목적
 #### 2. 개발 환경 및 언어
 #### 3. 시스템 구성 및 아키텍처
