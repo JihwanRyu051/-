@@ -139,7 +139,7 @@ Android Studio 4.2 (매우 권장),  JAVA,  Firebase
 
 
 ### 데이터 시각화 기능 프로필 연동
-MPAndroidChart를 이용해 레이더 차트를 그리는 데이터 시각화 기능을 완성하였다.
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)를 이용해 레이더 차트를 그리는 데이터 시각화 기능을 완성하였다.
 프로필 페이지에 들어가면 지금까지 자신이 플레이한 게임의 최고 점수와 평균 점수를 파이어베이스에서 받아와 레이더 그래프를 통해서 시각적으로 볼 수 있다. 빨간 그래프는 본인의 최고 점수, 파란 그래프는 본인의 점수들의 평균을 나타낸다. 그래프는 실시간으로 업데이트 된다.
 
 <img width="137" alt="image" src="https://user-images.githubusercontent.com/68914294/122737711-4d730400-d2bc-11eb-8eb2-463ea6bd4a4b.png"> <img width="197" alt="image" src="https://user-images.githubusercontent.com/68914294/122737723-4fd55e00-d2bc-11eb-8914-78799ec39e93.png">
