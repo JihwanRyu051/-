@@ -161,6 +161,3 @@ Android Studio 4.2 (매우 권장),  JAVA,  Firebase
 |전민기|조현우|류지환|
 |------|---|---|
 |클라이언트/서버 통신 설계, 데이터 시각화 기능 구현,Firebase를 활용한 채팅 프로그램 구현|전반적인 UI설계, Main page 구현, 게임 알고리즘 설계 및 구현|firebase를 활용한 데이터베이스 구현, 회원가입 및 탈퇴, 로그인, 기능 구현|
-
-
-github 주소: https://github.com/JihwanRyu051/SoftwareDesign
