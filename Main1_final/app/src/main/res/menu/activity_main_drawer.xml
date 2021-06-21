@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home48"/>
+        <item
+            android:id="@+id/nav_match"
+            android:title="Match"
+            android:icon="@drawable/match80"/>
+        <item
+            android:id="@+id/nav_sequence"
+            android:title="Sequence"
+            android:icon="@drawable/sequence100"/>
+        <item
+            android:id="@+id/nav_verbal"
+            android:title="Verbal"
+            android:icon="@drawable/dic100"/>
+        <item
+            android:id="@+id/nav_response"
+            android:title="Response"
+            android:icon="@drawable/lightning100"/>
+        <item
+            android:id="@+id/nav_chat"
+            android:title="Chat"
+            android:icon="@drawable/chat"/>
+
+    </group>
+
+
+    <item android:title="Profile">
+        <group android:checkableBehavior="single">
+            <menu>
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:title="Profile"
+                    android:icon="@drawable/profile100"/>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="Logout"
+                    android:icon="@drawable/logout50"/>
+                <item
+                    android:id="@+id/nav_delete"
+                    android:title="Delete Account"
+                    android:icon="@drawable/delete03"/>
+            </menu>
+        </group>
+    </item>
+
+<!--
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share"
+                android:icon="@drawable/logout50"/>
+            <item
+                android:id="@+id/nav_rate"
+                android:title="Rate"
+                android:icon="@drawable/logout50"/>
+
+
+        </menu>
+    </item>
+    -->
+</menu>
